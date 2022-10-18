@@ -539,7 +539,10 @@ header{
     .skills-charts{
         margin-right: 20%;
     }
-
+  .line22{
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+  }
     /* media query for blog section */
     .section-blog{
         width: 90%;
@@ -565,3 +568,4 @@ header{
 
     
 }
+
